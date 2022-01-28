@@ -1,6 +1,6 @@
 # Lenovo M920q OpenCore EFI
 
-This EFI config is tested under 12.1 (21C52). For Catalina users, please visit [Catalina branch](https://github.com/kamingchan/lenovo-m920q-efi/tree/Catalina). Credit https://www.bilibili.com/video/BV1mT4y137T1.
+This EFI config is tested under 12.2 (21D49). For Catalina users, please visit [Catalina branch](https://github.com/kamingchan/lenovo-m920q-efi/tree/Catalina). Credit https://www.bilibili.com/video/BV1mT4y137T1.
 
 ## Usage
 
