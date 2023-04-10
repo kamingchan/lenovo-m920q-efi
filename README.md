@@ -1,6 +1,6 @@
 # Lenovo M920q OpenCore EFI
 
-This EFI config is tested under macOS Monterey 12.6 (21G115). For Catalina users, please visit [Catalina branch](https://github.com/kamingchan/lenovo-m920q-efi/tree/Catalina). Credit https://www.bilibili.com/video/BV1mT4y137T1.
+This EFI config is tested under macOS Ventura 13.3.1. For Monterey users, please visit [Monterey branch](https://github.com/kamingchan/lenovo-m920q-efi/tree/Monterey). Credit https://www.bilibili.com/video/BV1mT4y137T1.
 
 ## Usage
 
